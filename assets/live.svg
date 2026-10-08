@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 24" width="106" height="24" role="img" aria-label="En ligne">
+<title>En ligne</title>
+<style>
+.r{transform-box:fill-box;transform-origin:center;animation:r 1.8s ease-out infinite}
+@keyframes r{0%{transform:scale(1);opacity:.8}100%{transform:scale(3);opacity:0}}
+text{font-family:'JetBrains Mono','Cascadia Code','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace;font-size:11px;font-weight:700;letter-spacing:1.2px}
+@media (prefers-reduced-motion: reduce){.a,.a *{animation:none!important}.pkt{display:none}}
+</style>
+<rect x=".5" y=".5" width="105" height="23" rx="12" fill="#0f2a1a" stroke="#238636"/>
+<g class="a"><circle class="r" cx="14" cy="12" r="4" fill="#3fb950"/></g>
+<circle cx="14" cy="12" r="4" fill="#3fb950"/>
+<text x="26" y="16" fill="#3fb950">EN LIGNE</text>
+</svg>
