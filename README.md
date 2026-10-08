@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=220&section=header&text=Evann%20Bougoula&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Syst%C3%A8mes%20%C2%B7%20R%C3%A9seaux%20%C2%B7%20Infrastructure&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Evann Bougoula — Systèmes, Réseaux, Infrastructure"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=220&section=header&text=Evann%20Bougoula&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Syst%C3%A8mes%20%C2%B7%20R%C3%A9seaux%20%C2%B7%20Infrastructure&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="Evann Bougoula — Systèmes, Réseaux, Infrastructure"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Alternant+technicien+syst%C3%A8mes+%26+r%C3%A9seaux+%40+EFS;BTS+SIO+option+SISR+%C2%B7+Angers;Proxmox+%C2%B7+Docker+%C2%B7+VLAN+%C2%B7+WireGuard+%C2%B7+Cisco;L%27IA+code.+Moi%2C+je+cadre%2C+je+relis%2C+je+s%C3%A9curise." alt="Alternant technicien systèmes et réseaux"/>
 
@@ -13,27 +13,23 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-evann--bougoula-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/evann-bougoula)
 [![CV](https://img.shields.io/badge/CV-PDF-0ea5e9?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0d1117)](https://evann-bougoula.dagz.fr/CV_Evann_Bougoula.pdf)
 
+<img src="https://komarev.com/ghpvc/?username=dagonk49&label=vues%20du%20profil&color=0ea5e9&style=flat-square" alt="Vues du profil"/>
+
 </div>
 
-```console
-evann@dagz:~$ whoami
-  poste      Alternant technicien informatique — DSI régionale de l'Établissement Français du Sang
-  formation  BTS SIO option SISR (MyDigitalSchool Angers) · Bac Pro CIEL mention très bien
-  terrain    support N1 · Active Directory · masterisation et déploiement du parc
-  lab        Proxmox VE · Docker · VLAN · WireGuard · Nginx Proxy Manager
-  méthode    l'IA écrit le code ; je cadre, je relis, je traque les failles et je déploie
-  secteur    Angers · Nantes · Ancenis · Candé — présentiel ou télétravail
-```
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt=""/> Salut, moi c'est Evann
 
----
+<img src="assets/terminal.svg" width="100%" alt="Terminal. whoami : Evann Bougoula, technicien systèmes et réseaux, alternant DSI EFS. Focus : systèmes, réseaux, virtualisation, sécurité. HomeLab : Proxmox VE, Docker, VLAN, WireGuard, Nginx Proxy Manager. NetForge répond en HTTP/2 200. Méthode : l'IA code, je cadre, je relis, je sécurise."/>
 
-## 🧠 Mes domaines
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" alt=""/> Mes domaines
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🖥️ Systèmes
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="24" alt=""/> Systèmes
 - **Proxmox VE** — en stage et dans mon lab
 - **Docker / Compose**
 - **Windows Server** 2022 · 2025
@@ -45,7 +41,7 @@ evann@dagz:~$ whoami
 </td>
 <td width="33%" valign="top">
 
-### 🌐 Réseaux
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="24" alt=""/> Réseaux
 - **VLAN**, trunks 802.1Q, routage inter-VLAN
 - Adressage **IPv4** et découpage **VLSM**
 - **Cisco IOS** en ligne de commande
@@ -56,7 +52,7 @@ evann@dagz:~$ whoami
 </td>
 <td width="33%" valign="top">
 
-### 🛡️ Sécurité
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="24" alt=""/> Sécurité
 - Segmentation du réseau par **VLAN**
 - Accès distant **WireGuard**
 - Reverse proxy et **TLS** (Nginx Proxy Manager)
@@ -69,42 +65,13 @@ evann@dagz:~$ whoami
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🏠 Mon HomeLab
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" width="30" alt=""/> Mon HomeLab
 
 > Mon terrain d'expérimentation au quotidien. C'est lui qui héberge tous mes projets publiés sur **dagz.fr**.
 
-```mermaid
-flowchart TB
-    U(["🌍 Internet"]) --> CF["☁️ Cloudflare<br/>DNS · dagz.fr"]
-    CF --> NPM["🔀 Nginx Proxy Manager<br/>reverse proxy · TLS"]
-    R(["💻 Accès distant"]) --> WG["🔐 WireGuard<br/>VPN"]
-
-    subgraph LAN["🧱 Réseau du lab · segmenté par VLAN"]
-        subgraph PVE["🖥️ Proxmox VE · hyperviseur"]
-            subgraph DOCK["🐳 VM principale Docker · plus de la moitié des ressources"]
-                NF["NetForge"]
-                PF["Portfolio"]
-                JF["Jellyfin"]
-                STG["Staging privé"]
-                AUTO["Automatisations"]
-            end
-            subgraph TEST["🧪 VM de test"]
-                WS22["Windows Server 2022"]
-                WS25["Windows Server 2025"]
-                DEB["Debian"]
-                W11["Windows 11"]
-            end
-        end
-    end
-
-    NPM --> DOCK
-    WG --> LAN
-
-    classDef access fill:#0ea5e9,stroke:#0369a1,color:#ffffff
-    class CF,NPM,WG access
-```
+<img src="assets/homelab.svg" width="100%" alt="Schéma animé du HomeLab : Internet passe par Cloudflare puis Nginx Proxy Manager vers la VM Docker (NetForge, portfolio, Jellyfin, staging privé, automatisations) ; l'accès distant passe par WireGuard ; Proxmox VE héberge aussi des VM de test Windows Server 2022, 2025, Debian et Windows 11 ; le réseau du lab est segmenté par VLAN."/>
 
 | Brique | Rôle |
 |---|---|
@@ -114,15 +81,18 @@ flowchart TB
 | **WireGuard** | Accès distant sans exposer l'administration |
 | **VLAN** | Isolation des environnements de test et de production |
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🛰️ NetForge — conception réseau, du plan d'adressage à la console
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" width="30" alt=""/> NetForge — du plan d'adressage à la console
 
-<a href="https://netforge.dagz.fr"><img src="https://img.shields.io/badge/●_En_ligne-netforge.dagz.fr-2ea44f?style=flat-square" alt="En ligne"/></a>
+<a href="https://netforge.dagz.fr"><img src="assets/live.svg" height="22" alt="En ligne"/></a>
+<a href="https://netforge.dagz.fr"><img src="https://img.shields.io/badge/netforge.dagz.fr-0ea5e9?style=flat-square&logo=cisco&logoColor=white" alt="netforge.dagz.fr"/></a>
 <a href="https://hub.docker.com/r/dagonk/netforge-engine"><img src="https://img.shields.io/badge/Docker_Hub-dagonk%2Fnetforge--engine-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Hub"/></a>
 <img src="https://img.shields.io/badge/licence-MIT-6e7681?style=flat-square" alt="MIT"/>
 
 > Né d'un besoin rencontré en cours et en TP : découper les plages, suivre les attributions et écrire les configs à la main, c'est long et source d'erreurs. NetForge relie la conception théorique aux commandes réellement tapées sur les équipements.
+
+<img src="assets/vlsm.svg" width="100%" alt="Animation du découpage VLSM de 192.168.10.0/24 pour des besoins de 100, 50 et 20 hôtes : 192.168.10.0/25 (126 hôtes utiles), 192.168.10.128/26 (62), 192.168.10.192/27 (30), 192.168.10.224 libre, aucun chevauchement."/>
 
 | | |
 |---|---|
@@ -162,9 +132,9 @@ router ospf 1
 
 **Mon rôle :** définir le besoin, écrire le cahier de recette (cas VLSM, détection de chevauchement, trunks générés), valider chaque calcul et chaque config produite, conteneuriser l'application et la publier sur mon lab.
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🏢 Réalisations en entreprise
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="30" alt=""/> Réalisations en entreprise
 
 <table>
 <tr>
@@ -215,11 +185,12 @@ Filtrage DNS avec **AdGuard Home**, scripts **PowerShell** déployés via **Datt
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🌐 Portfolio — EVANN // ROOT ACCESS
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="30" alt=""/> Portfolio — EVANN // ROOT ACCESS
 
-<a href="https://evann-bougoula.dagz.fr"><img src="https://img.shields.io/badge/●_En_ligne-evann--bougoula.dagz.fr-2ea44f?style=flat-square" alt="En ligne"/></a>
+<a href="https://evann-bougoula.dagz.fr"><img src="assets/live.svg" height="22" alt="En ligne"/></a>
+<a href="https://evann-bougoula.dagz.fr"><img src="https://img.shields.io/badge/evann--bougoula.dagz.fr-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="evann-bougoula.dagz.fr"/></a>
 <a href="https://github.com/dagonk49/portefolio-Evann-BOUGOULA"><img src="https://img.shields.io/badge/dépôt-portefolio--Evann--BOUGOULA-555?style=flat-square&logo=github" alt="Dépôt"/></a>
 
 > Mon portfolio est aussi un projet d'infra : conteneurisé, durci et auto-hébergé sur mon lab.
@@ -251,9 +222,9 @@ Filtrage DNS avec **AdGuard Home**, scripts **PowerShell** déployés via **Datt
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🎬 DagzFlix — service de streaming auto-hébergé
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="30" alt=""/> DagzFlix — service de streaming auto-hébergé
 
 > Interface façon Netflix pour mon serveur **Jellyfin**, branchée sur **Jellyseerr / TMDB**. Conteneurisée et pilotée avec l'IA sur plusieurs itérations.
 
@@ -276,9 +247,9 @@ Filtrage DNS avec **AdGuard Home**, scripts **PowerShell** déployés via **Datt
 
 </details>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🤖 Ma méthode : l'IA code, je pilote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30" alt=""/> Ma méthode : l'IA code, je pilote
 
 Je ne me présente pas comme développeur. Sur mes projets applicatifs, c'est l'IA qui écrit le code ; mon travail, c'est tout le reste.
 
@@ -290,14 +261,14 @@ Je ne me présente pas comme développeur. Sur mes projets applicatifs, c'est l'
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🗂️ Tous mes dépôts
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="30" alt=""/> Tous mes dépôts
 
 | Dépôt | Ce que c'est | Période |
 |---|---|:---:|
 | 🛰️ [**NETFORGE-V4**](https://github.com/dagonk49/NETFORGE-V4) | Prochaine version de NetForge (la version actuelle tourne sur [netforge.dagz.fr](https://netforge.dagz.fr) et Docker Hub) · ![en préparation](https://img.shields.io/badge/en_préparation-d29922?style=flat-square) | sept. 2026 |
-| 🌐 [**portefolio-Evann-BOUGOULA**](https://github.com/dagonk49/portefolio-Evann-BOUGOULA) | Portfolio conteneurisé et durci, lab 3D réseau · ![en ligne](https://img.shields.io/badge/en_ligne-2ea44f?style=flat-square) | sept. 2026 |
+| 🌐 [**portefolio-Evann-BOUGOULA**](https://github.com/dagonk49/portefolio-Evann-BOUGOULA) | Portfolio conteneurisé et durci, lab 3D réseau · <img src="assets/live.svg" height="18" alt="en ligne"/> | sept. 2026 |
 | 🎬 [**dagzflixV4**](https://github.com/dagonk49/dagzflixV4) | DagzFlix V4 — refonte avec sécurité dès la conception | avr. 2026 |
 | 🎬 [**v3**](https://github.com/dagonk49/v3) | DagzFlix v3 — audit sécurité, refactoring, Docker Compose | mars – avr. 2026 |
 | 🎬 [**Dagz-flix-V0-02**](https://github.com/dagonk49/Dagz-flix-V0-02) | DagzFlix V0.2 — variante front / back séparés | fév. – mars 2026 |
@@ -306,9 +277,9 @@ Je ne me présente pas comme développeur. Sur mes projets applicatifs, c'est l'
 | 🧪 [**test**](https://github.com/dagonk49/test) | Premier essai de pilotage d'une application avec un agent IA | juil. 2025 |
 | 👤 [**dagonk49**](https://github.com/dagonk49/dagonk49) | Ce profil | oct. 2026 |
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🧰 Outils
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="30" alt=""/> Outils
 
 <div align="center">
 
@@ -339,9 +310,23 @@ Je ne me présente pas comme développeur. Sur mes projets applicatifs, c'est l'
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🎓 Formation & certifications
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" alt=""/> Mon activité GitHub
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dagonk49/dagonk49/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dagonk49/dagonk49/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/dagonk49/dagonk49/output/github-snake.svg" alt="Un serpent animé parcourt mon graphe de contributions"/>
+</picture>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" alt=""/> Formation & certifications
 
 | | |
 |---|---|
@@ -350,11 +335,11 @@ Je ne me présente pas comme développeur. Sur mes projets applicatifs, c'est l'
 | 📜 **Cisco Networking Academy** | Introduction à la cybersécurité |
 | 📜 **Pix** · **SST** · **Habilitation électrique B1V** | |
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
-### 📫 Me contacter
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" width="28" alt=""/> Me contacter
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=0ea5e9)](https://evann-bougoula.dagz.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0ea5e9)](https://www.linkedin.com/in/evann-bougoula)
@@ -362,6 +347,6 @@ Je ne me présente pas comme développeur. Sur mes projets applicatifs, c'est l'
 
 <sub>📍 Angers · Nantes · Ancenis · Candé — permis B, véhicule personnel</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0d1117&height=120&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt=""/>
 
 </div>
