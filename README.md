@@ -312,19 +312,6 @@ Je ne me présente pas comme développeur. Sur mes projets applicatifs, c'est l'
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" alt=""/> Mon activité GitHub
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dagonk49/dagonk49/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dagonk49/dagonk49/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/dagonk49/dagonk49/output/github-snake.svg" alt="Un serpent animé parcourt mon graphe de contributions"/>
-</picture>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" alt=""/> Formation & certifications
 
